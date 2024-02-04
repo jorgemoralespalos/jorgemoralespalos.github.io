@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <rss version="2.0">
 	<channel>
-		<title>Noticias de Fútbol</title>
+		<title>Noticias sobre el Cordoba CF</title>
 		<link>https://jorgemoralespalos.github.io</link>
-		<description>Últimas noticias relacionadas con el fútbol</description>
+		<description>Últimas noticias relacionadas con el Córdoba CF</description>
 		<category>Deportes/Fútbol</category>
 		<copyright>Jorge Morales Palos - Todos los derechos reservados</copyright>
 		<language>es-es</language>
