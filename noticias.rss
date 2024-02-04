@@ -2,14 +2,14 @@
 <rss version="2.0">
 	<channel>
 		<title>Noticias de Fútbol</title>
-		<link>https://github.com/jorgemoralespalos/lm-rss</link>
+		<link>https://jorgemoralespalos.github.io</link>
 		<description>Últimas noticias relacionadas con el fútbol</description>
 		<category>Deportes/Fútbol</category>
 		<copyright>Jorge Morales Palos - Todos los derechos reservados</copyright>
 		<language>es-es</language>
-		<lastBuildDate>Fri, 02 Feb 2024 09:42:31 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 04 Feb 2024 12:42:31 GMT</lastBuildDate>
 		<webMaster>jorge.morales.palos@gmail.com</webMaster>
-		<skipDays>	<!--- días de la semana en los que se debe evitar la actualización del canal -->
+		<skipDays><!--- días de la semana en los que se debe evitar la actualización del canal -->
 			<day>Saturday</day>
 			<day>Sunday</day>
 		</skipDays>
@@ -20,19 +20,18 @@
 			<hour>9</hour>
 		</skipHours>
 		<image>
-			<url>URL_DE_LA_IMAGEN_EN_INTERNET</url>
 			<title>Noticias de Fútbol</title>
-			<link>https://github.com/TU_USUARIO/TU_REPOSITORIO</link>
+			<img src="./img/aficion.jpg" alt="Noticias del futbol" />
 		</image>
 		
 		<item>
-			<title>Título de la Noticia 1</title>
-			<link>https://acortar.link/NOTICIA_1</link>
-			<description>Descripción de la Noticia 1</description>
-			<author>Tu Nombre</author>
-			<enclosure url="URL_DE_LA_IMAGEN_NOTICIA_1" length="12345" type="image/jpg" />
-			<source url="https://acortar.link/NOTICIA_1" />
-			<pubDate>Sat, 07 Sep 2002 09:42:31 GMT</pubDate>
+			<title>Resumen Linares Deportivo - Córdoba C.F.</title>
+			<link>https://www.youtube.com/watch?v=X1yptdsrMZo</link>
+			<description>PrimeraFederación | Linares Deportivo 0-2 Córdoba CF | Jornada 22, Grupo 2</description>
+			<author>Jorge Morales Palos</author>
+			<enclosure url="./img/pelota1.jpg" type="image/jpg" />
+			<source url="https://www.youtube.com/watch?v=X1yptdsrMZo" />
+			<pubDate>Sat, 03 Feb 2024 22:00:00 GMT</pubDate>
 		</item>
 
 		<item>
