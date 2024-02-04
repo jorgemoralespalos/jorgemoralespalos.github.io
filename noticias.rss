@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+	<channel>
+		<title>Noticias de Fútbol</title>
+		<link>https://github.com/jorgemoralespalos/lm-rss</link>
+		<description>Últimas noticias relacionadas con el fútbol</description>
+		<category>Deportes/Fútbol</category>
+		<copyright>Jorge Morales Palos - Todos los derechos reservados</copyright>
+		<language>es-es</language>
+		<lastBuildDate>Fri, 02 Feb 2024 09:42:31 GMT</lastBuildDate>
+		<webMaster>jorge.morales.palos@gmail.com</webMaster>
+		<skipDays>	<!--- días de la semana en los que se debe evitar la actualización del canal -->
+			<day>Saturday</day>
+			<day>Sunday</day>
+		</skipDays>
+		<skipHours> <!--- horas en las que se debe evitar la actualización del canal -->
+			<hour>6</hour>
+			<hour>7</hour>
+			<hour>8</hour>
+			<hour>9</hour>
+		</skipHours>
+		<image>
+			<url>URL_DE_LA_IMAGEN_EN_INTERNET</url>
+			<title>Noticias de Fútbol</title>
+			<link>https://github.com/TU_USUARIO/TU_REPOSITORIO</link>
+		</image>
+		
+		<item>
+			<title>Título de la Noticia 1</title>
+			<link>https://acortar.link/NOTICIA_1</link>
+			<description>Descripción de la Noticia 1</description>
+			<author>Tu Nombre</author>
+			<enclosure url="URL_DE_LA_IMAGEN_NOTICIA_1" length="12345" type="image/jpg" />
+			<source url="https://acortar.link/NOTICIA_1" />
+			<pubDate>Sat, 07 Sep 2002 09:42:31 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Título de la Noticia 2</title>
+			<link>https://acortar.link/NOTICIA_2</link>
+			<description>Descripción de la Noticia 2</description>
+			<author>Tu Nombre</author>
+			<enclosure url="URL_DE_LA_IMAGEN_NOTICIA_2" length="12345" type="image/jpg" />
+			<source url="https://acortar.link/NOTICIA_2" />
+			<pubDate>Sat, 07 Sep 2002 09:42:31 GMT</pubDate>
+		</item>
+		
+		<item>
+			<title>Título de la Noticia 3</title>
+			<link>https://acortar.link/NOTICIA_3</link>
+			<description>Descripción de la Noticia 3</description>
+			<author>Tu Nombre</author>
+			<enclosure url="URL_DE_LA_IMAGEN_NOTICIA_3" length="12345" type="image/jpg" />
+			<source url="https://acortar.link/NOTICIA_3" />
+			<pubDate>Sat, 07 Sep 2002 09:42:31 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Título de la Noticia 4</title>
+			<link>https://acortar.link/NOTICIA_4</link>
+			<description>Descripción de la Noticia 4</description>
+			<author>Tu Nombre</author>
+			<enclosure url="URL_DE_LA_IMAGEN_NOTICIA_4" length="12345" type="image/jpg" />
+			<source url="https://acortar.link/NOTICIA_4" />
+			<pubDate>Sat, 07 Sep 2002 09:42:31 GMT</pubDate>
+		</item>
+	</channel>
+</rss>
