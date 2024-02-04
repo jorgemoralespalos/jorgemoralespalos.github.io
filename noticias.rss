@@ -21,7 +21,7 @@
 		</skipHours>
 		<image>
 			<title>Noticias de Fútbol</title>
-			<img src="./img/aficion.jpg" alt="Noticias del futbol" />
+			<img src="img/aficion.jpg" alt="Noticias del futbol" />
 		</image>
 		
 		<item>
@@ -35,33 +35,33 @@
 		</item>
 
 		<item>
-			<title>Título de la Noticia 2</title>
-			<link>https://acortar.link/NOTICIA_2</link>
-			<description>Descripción de la Noticia 2</description>
-			<author>Tu Nombre</author>
-			<enclosure url="URL_DE_LA_IMAGEN_NOTICIA_2" length="12345" type="image/jpg" />
-			<source url="https://acortar.link/NOTICIA_2" />
-			<pubDate>Sat, 07 Sep 2002 09:42:31 GMT</pubDate>
-		</item>
-		
-		<item>
-			<title>Título de la Noticia 3</title>
-			<link>https://acortar.link/NOTICIA_3</link>
-			<description>Descripción de la Noticia 3</description>
-			<author>Tu Nombre</author>
-			<enclosure url="URL_DE_LA_IMAGEN_NOTICIA_3" length="12345" type="image/jpg" />
-			<source url="https://acortar.link/NOTICIA_3" />
-			<pubDate>Sat, 07 Sep 2002 09:42:31 GMT</pubDate>
+			<title>Resumen Córdoba C.F. - Real Murcia CF</title>
+			<link>https://www.youtube.com/watch?v=b5d-YbRx-7k</link>
+			<description>PrimeraFederación | Córdoba CF 0-0 Real Murcia CF | Jornada 21, Grupo 2</description>
+			<author>Jorge Morales Palos</author>
+			<enclosure url="img/pelota1.jpg" type="image/jpg" />
+			<source url="https://www.youtube.com/watch?v=b5d-YbRx-7k" />
+			<pubDate>Sat, 03 Feb 2024 22:00:00 GMT</pubDate>
 		</item>
 
 		<item>
-			<title>Título de la Noticia 4</title>
-			<link>https://acortar.link/NOTICIA_4</link>
-			<description>Descripción de la Noticia 4</description>
-			<author>Tu Nombre</author>
-			<enclosure url="URL_DE_LA_IMAGEN_NOTICIA_4" length="12345" type="image/jpg" />
-			<source url="https://acortar.link/NOTICIA_4" />
-			<pubDate>Sat, 07 Sep 2002 09:42:31 GMT</pubDate>
+			<title>Resumen Córdoba C.F. - CF Intercity</title>
+			<link>https://www.youtube.com/watch?v=izLk2vXQHUI</link>
+			<description> Córdoba CF 1-0 CF Intercity | Jornada 19, Grupo 2</description>
+			<author>Jorge Morales Palos</author>
+			<enclosure url="img/pelota1.jpg" type="image/jpg" />
+			<source url="https://www.youtube.com/watch?v=izLk2vXQHUI" />
+			<pubDate>Sat, 03 Feb 2024 22:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Resumen Recreativo - Córdoba C.F.</title>
+			<link>https://www.youtube.com/watch?v=LCgauK5FcHE</link>
+			<description> PrimeraFederación | Recreativo 1-1 Córdoba CF | Jornada 20, Grupo 2</description>
+			<author>Jorge Morales Palos</author>
+			<enclosure url="img/pelota1.jpg" type="image/jpg" />
+			<source url="https://www.youtube.com/watch?v=LCgauK5FcHE" />
+			<pubDate>Sat, 03 Feb 2024 22:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
