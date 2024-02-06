@@ -22,7 +22,7 @@
 		
 		<!-- Imagen que se mostrará solo en el momento de suscrpción a nuestro link-canal-->
 		<image>
-			<url>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgcAN4ZAyzXDR_DJaaqKZPjGoRnFXW8RS9nDMjxuaPaf2jXc7woylJ6hoyctLo1K-_7L-0eNYeepGtH1f4KCg--u_EVaOewFaJwbVWJM7YHmP7EgNRoJy64tGnkmh3cioWbSZE6gCwXi5r8GCQ1Z0Kk6iP60Rt1s9ckQp2u01K-iLdx7EaOfwAfYJSKw/s640/https-g8afbf75c4_640.jpg</url>
+			<url>https://jorgemoralespalos.github.io/img/futbol1.jpg</url>
 			<link>https://jorgemoralespalos.github.io</link>
 			<title>Noticias de Fútbol</title>
 		</image>
@@ -35,7 +35,7 @@
 			<source url="https://www.youtube.com/watch?v=X1yptdsrMZo"></source>
 			<pubDate>Sat, 03 Feb 2024 22:00:00 GMT</pubDate>
 			<enclosure 
-				url="https://pixabay.com/get/g31dd24094f2c027e803c039ba3e5ddd27110d60dca045706229cfe5af94a614d5b2f71c00cc710389e72ce10fe3ea379_640.jpg" length="12345" type="image/jpg" >
+				url="https://jorgemoralespalos.github.io/img/futbol2.jpg.jpg" length="12345" type="image/jpg" >
 			</enclosure>
 		</item>
 
@@ -76,4 +76,3 @@
 		</item>
 	</channel>
 </rss>
-
