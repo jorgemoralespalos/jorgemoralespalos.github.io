@@ -19,10 +19,12 @@
 			<hour>8</hour>
 			<hour>9</hour>
 		</skipHours>
+		
+		<!-- Imagen que se mostrará solo en el momento de suscrpción a nuestro link-canal-->
 		<image>
-			<url>https://pixabay.com/get/g1bb01169d7918c9db83981795634da7fae234b4735afe6ce330201dd4cf103d2f6c4233fdd6350577cd28091f95ed03df0085807dccf9a68c150d298452a5b7a_1280.jpg</url>
-			<title>Noticias de Fútbol</title>
+			<url>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgcAN4ZAyzXDR_DJaaqKZPjGoRnFXW8RS9nDMjxuaPaf2jXc7woylJ6hoyctLo1K-_7L-0eNYeepGtH1f4KCg--u_EVaOewFaJwbVWJM7YHmP7EgNRoJy64tGnkmh3cioWbSZE6gCwXi5r8GCQ1Z0Kk6iP60Rt1s9ckQp2u01K-iLdx7EaOfwAfYJSKw/s640/https-g8afbf75c4_640.jpg</url>
 			<link>https://jorgemoralespalos.github.io</link>
+			<title>Noticias de Fútbol</title>
 		</image>
 	
 		<item>
@@ -30,11 +32,11 @@
 			<link>https://www.youtube.com/watch?v=X1yptdsrMZo</link>
 			<description>PrimeraFederación | Linares Deportivo 0-2 Córdoba CF | Jornada 22, Grupo 2</description>
 			<author>jorge.morales.palos@gmail.com</author>
-			<enclosure 
-			url="https://pixabay.com/get/g9afd66878f360d26fba77dbb67d51188231a2f6059fdb626a29091ee194fef7bd46e614b218badbcbdd7f416fcdecdfc_640.jpg" length="12345" type="image/jpg" >
-			</enclosure>
 			<source url="https://www.youtube.com/watch?v=X1yptdsrMZo"></source>
 			<pubDate>Sat, 03 Feb 2024 22:00:00 GMT</pubDate>
+			<enclosure 
+			url="https://blogger.googleusercontent.com/img/a/AVvXsEho0kN-m6Zv4xNnYIkdlt-YLJI9XZLjWwDdIMBzGs0MgT7o3klfwSsMNjfQxg20VyJA2cCoEeuvp-uaVN2SIHiYcrjLVnDzgZ1KDLx5LBgLZPyvWeTkEQGY02tCiNgSYtUWjtndtrLVNoQ61GcMrMVw_AeA5Foox__7FRyeRxYpki_30zBWPe4oDQ_W=s960" length="12345" type="image/jpg" >
+			</enclosure>
 		</item>
 
 		<item>
@@ -43,7 +45,7 @@
 			<description>PrimeraFederación | Córdoba CF 0-0 Real Murcia CF | Jornada 21, Grupo 2</description>
 			<author>jorge.morales.palos@gmail.com</author>
 			<enclosure 
-				url="https://pixabay.com/get/g77bb8b245bba1d447f246cb83717eaa144e1d6378f7a0a266cb7162eac71670e7a0140d845b40d2ace59122c0552f0ec_1280.jpg" length="12345" type="image/jpg" >
+				url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCcxv2Pj0CzTC05GKc0KqwCypV8xVEFYn_riarl6FcU5hrBw-wIWUP7216ifjzSY3t_nRzdOkQOqa15t2dg9O9bgi6JC08HIFBWWIHpDBOlERd8BKWvngQX_7Lipc503GaCvVKO-7GfttTAKoPu5II2zoYE-DAMCJyODeAcW0BhvIYhoAqI62eOFOXEQ/s640/apps-gcc12e72d1_640.jpg" length="12345" type="image/jpg" >
 			</enclosure>
 			<source url="https://www.youtube.com/watch?v=b5d-YbRx-7k"></source>
 			<pubDate>Sat, 03 Feb 2024 22:00:00 GMT</pubDate>
@@ -55,7 +57,7 @@
 			<description> Córdoba CF 1-0 CF Intercity | Jornada 19, Grupo 2</description>
 			<author>jorge.morales.palos@gmail.com</author>
 			<enclosure 
-				url="https://pixabay.com/get/g2649e27c38e26ddef6757d28f519ac938c9934892a53b663b356108ace82de030344a16f407a2b8b371f4eaed7e67be7318a9a4f087699c46001c5a81e690a2e_1280.jpg" length="12345" type="image/jpg" >
+				url="https://blogger.googleusercontent.com/img/a/AVvXsEhDyAKAGKybO-agxetvm51a-kb6zW8S8nQMRjD9tQ5sP5wlad-yHwSlm2X8l4afuJpcNpt3_2sMt2yD1LFQWIfC7x1kcUrWsZQLUljA2VmrErUYYUYtE-B1aiRgbDfvxeilqKjB6VYHjZ-rMvCniuQMHE9yzorJBtJcEtEm6MM_1aZZXHXMXqxqJcxW=s1920" length="12345" type="image/jpg" >
 			</enclosure>
 			<source url="https://www.youtube.com/watch?v=izLk2vXQHUI"></source>
 			<pubDate>Sat, 03 Feb 2024 22:00:00 GMT</pubDate>
@@ -67,7 +69,7 @@
 			<description> PrimeraFederación | Recreativo 1-1 Córdoba CF | Jornada 20, Grupo 2</description>
 			<author>jorge.morales.palos@gmail.com</author>
 			<enclosure 
-				url="https://pixabay.com/get/g9f631c2f963257fe4614983512606fa66eb83a595876a839588babe944fe86918671e65cf69defaf7dcced2c1b7face3b4a2ad624dcf23a8de5fdd142aa6e341_1280.jpg" length="12345" type="image/jpg" >
+				url="" length="12345" type="image/jpg" >
 			</enclosure>
 			<source url="https://www.youtube.com/watch?v=LCgauK5FcHE"></source>
 			<pubDate>Sat, 03 Feb 2024 22:00:00 GMT</pubDate>
